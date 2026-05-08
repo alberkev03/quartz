@@ -16,12 +16,12 @@ tags:
 - Estructura.  Cómo se divide el trabajo en áreas coordinadas.
 - Cultura. Generador invisible de energía.
 ## Tipos de sistemas
-- Estratégico/Gerencial. [[Organización como sistema 1#^3f83eb|BI]].
+- Estratégico/Gerencial. [[Organización como sistema#^3f83eb|BI]].
 	- Soporte para la toma de decisiones.
 - Nivel táctico/Mandos medios.
 	- Reportes, indicadores de rendimientos. Alimentados por el nivel operativo.
 - Nivel operativo.
-	- [[Sistemas]] transaccionales. [[Organización como sistema 1#^251c60|ERP]], [[Organización como sistema 1#^bda22c|CRM]], [[Organización como sistema 1#^c5082a|SCM]].
+	- [[Sistemas]] transaccionales. [[Organización como sistema#^251c60|ERP]], [[Organización como sistema#^bda22c|CRM]], [[Organización como sistema#^c5082a|SCM]].
 - Sistema de información.
 	- Computacional, manejo de herramientas e información.
 ## Nivel operativo

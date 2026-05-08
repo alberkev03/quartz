@@ -5,7 +5,7 @@ tags:
 ---
 
 # Windows
-Sistema operativo desarrollado por Microsoft, basado en ventanas. La primer versión fue en 1985 como una extensión gráfica de [[MS-DOS 1]]. Alcanzó su madurez con Windows XP.
+Sistema operativo desarrollado por Microsoft, basado en ventanas. La primer versión fue en 1985 como una extensión gráfica de [[MS-DOS]]. Alcanzó su madurez con Windows XP.
 Características claves:
 - Modelo de desarrollo cerrado, con modelos Insiders para ayudar en el desarrollo.
 
@@ -15,4 +15,4 @@ Características claves:
 ## Ver también
 - [[Sistemas operativos]]
 - [[Linux]]
-- [[MacOS 1]]
+- [[MacOS]]

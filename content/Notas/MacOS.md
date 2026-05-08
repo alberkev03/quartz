@@ -12,4 +12,4 @@ Sistema operativo desarrollado por Apple basado en [[UNIX]], más concretamente 
 ## Ver también
 - [[Sistemas operativos]]
 - [[Linux]]
-- [[Windows 1]]
+- [[Windows]]

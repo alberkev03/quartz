@@ -10,7 +10,7 @@ tags:
 - La parte más importante es el **kernel**, el cual se encarga de gestionar el uso del hardware por los programas.
 - Un sistema operativo eficiente sabe priorizar la ejecución de ciertos programas o reservar el uso de tanta cantidad de software dependiendo de para qué se lo necesite. 
 	- También debe ser capaz de poder manejar errores con eficacia.
-- Los más populares son [[Windows 1]], [[Linux]], [[MacOS 1]], Android, etc.
+- Los más populares son [[Windows]], [[Linux]], [[MacOS]], Android, etc.
 ## Funciones principales
 - Coordinar, planificar y sincronizar procesos, y permitir la comunicación entre ellos.
 

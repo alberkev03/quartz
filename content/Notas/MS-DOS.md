@@ -13,6 +13,6 @@ Uno de los [[Sistemas]] utilizados en ordenadores IBM durante los 80s y 90s, uti
 ## Referencias
 - [[Sistemas operativos.pdf]]
 ## Ver más
-- [[Windows 1]]
+- [[Windows]]
 - [[Linux]]
-- [[MacOS 1]]
+- [[MacOS]]

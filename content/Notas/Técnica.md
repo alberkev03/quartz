@@ -8,4 +8,4 @@ La técnica nos ha acompañado desde los inicios como especie. Es el empuñar di
 
 A diferencia de la [[Tecnología]], la técnica son procedimientos, habilidades y artefactos desarrollados sin la ayuda de la [[Ciencia|Ciencia]].
 
-#tecnica #Ciencia-tecnologia-Sociedad 
+#tecnica #[[Ciencia]]-tecnologia-[[Sociedad]] 

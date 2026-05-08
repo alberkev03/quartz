@@ -7,8 +7,8 @@ tags:
 
 # Linux
 - Sistema operativo 100% Libre y de código abierto, fundado por Linus Torvalds en 1991 como sustituto de Minix, de código cerrado y basado en Unix.
-- Aunque se denomina popularmente como Linux a cualquier [[Distribución Linux 1]], en realidad nos referimos al Kernel. La terminología correcta es **GNU/Linux**.
-- Como característica fundamental es su diseño modular, lo que ha permitido que surgan muchas [[Distribución Linux 1|Distribuciones]] a lo largo de los años.
+- Aunque se denomina popularmente como Linux a cualquier [[Distribución Linux]], en realidad nos referimos al Kernel. La terminología correcta es **GNU/Linux**.
+- Como característica fundamental es su diseño modular, lo que ha permitido que surgan muchas [[Distribución Linux|Distribuciones]] a lo largo de los años.
 - Linux puede usarse tanto desde la terminal como con Interfaces de Usuario (GUIs).
 - Es distribuido bajo licencias de Código Abierto, lo que permite acceder al sistema operativo y modificarlo por completo. Muchas mejoras han sido hechas por la comunidad.
 - Su uso se ha extendido a múltiples sectores e industrias.
@@ -26,7 +26,7 @@ tags:
 ***
 ## Ver más
 - [[Sistemas operativos]]
-- [[Distribución Linux 1]]
+- [[Distribución Linux]]
 ## Referencias
 - [Linux](https://es.wikipedia.org/wiki/GNU/Linux)
 
