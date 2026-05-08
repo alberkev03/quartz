@@ -6,8 +6,8 @@ tags:
 ---
 
 # Rol del ténico TI como actor organizacional.
-- Siempre se trabaja en una [[Organización 1]], ya sea una escuela, una empresa, o en cualquier ámbito.
-	- Soporte técnico debe comprender las necesidades, jerarquía e infraestructura tecnológica de la [[Organización 1]] donde trabaje.
+- Siempre se trabaja en una [[Organización]], ya sea una escuela, una empresa, o en cualquier ámbito.
+	- Soporte técnico debe comprender las necesidades, jerarquía e infraestructura tecnológica de la [[Organización]] donde trabaje.
 - Aplican principios de la [[Administración científica de Taylor]].
 	- Se especializa y divide el trabajo. Por ejemplo, soporte de redes y da soporte a usuarios, y viceversa.
 	- Se establecen tiempos para resolver los problemas.

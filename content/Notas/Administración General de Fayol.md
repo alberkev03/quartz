@@ -10,10 +10,10 @@ tags:
 	- Operaciones comerciales. Compra, venta.
 	- Operaciones de seguridad. Protección de empleados y recursos.
 	- Operaciones de contabilidad. Inventario, balance, etc.
-	- Operaciones administrativas. [[Organización 1]], dirección, control.
+	- Operaciones administrativas. [[Organización]], dirección, control.
 ## Funciones de la administración
 1. Previsión y planificación.
-2. [[Organización 1]]. Dotar de lo necesario.
+2. [[Organización]]. Dotar de lo necesario.
 3. Mando. Funcionar recurso social.
 4. Coordinación. Armonía entre actores y recursos.
 5. Control.

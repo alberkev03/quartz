@@ -44,5 +44,5 @@ tags:
 ***
 ## Referencias
 - [[ITIL]]
-- [[Organización 1]]
+- [[Organización]]
 - [[unidad2 - ITIL Organización.pdf]]

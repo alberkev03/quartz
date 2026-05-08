@@ -16,17 +16,17 @@ tags:
 - Fingida: Normas impuestas desde el exterior.
 	- No compartidas por integrantes.
 	- Poco controladas y respetadas.
-- Representativa: Definidos por especialistas reconocidos como miembros de la [[Organización 1]].
+- Representativa: Definidos por especialistas reconocidos como miembros de la [[Organización]].
 	- No genera conflicto.
 - Punitiva: Control rígido y penalidades severas.
 ## Tipos de funciones
 - [[Funciones]] deseadas.
 	- Define exigencias a los empleados.
 	- Posibilita control a distancia.
-		- Manifiestas: Afloran dentro de la [[Organización 1]].
+		- Manifiestas: Afloran dentro de la [[Organización]].
 		- Latentes: Subyacen en el comportamiento de los individuos.
 - Disfuncionales: Indeseadas derivadas de [[Funciones]] latentes.
-	- Provenientes de integrantes de la [[Organización 1]].
+	- Provenientes de integrantes de la [[Organización]].
 	- Generan apatía.
 	- Decentralización. [[Departamentalización]] genera disfuncionales.
 

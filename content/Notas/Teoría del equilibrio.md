@@ -6,7 +6,7 @@ tags:
 
 # Teoría del equilibrio
 - Aportes dentro de una empresa.
-	- Directo: Valor personal directo de las finalidades de una [[Organización 1]]. Ej: Entidad benéfica.
+	- Directo: Valor personal directo de las finalidades de una [[Organización]]. Ej: Entidad benéfica.
 	- Indirecto: Incentivos (materiales o no) para que el participante trabaje para fines organizacionales. 
 
 

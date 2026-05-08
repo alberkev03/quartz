@@ -8,7 +8,7 @@ tags:
 - Teoría de la motivación.
 	- Herzberg: Necesidad de satisfacer deseos humanos.
 		- Realización.
-		- Reconocimiento dentro y fuera de la [[Organización 1]].
+		- Reconocimiento dentro y fuera de la [[Organización]].
 		- Placer de la tarea elegida.
 		- Responsabilidad y progreso.
 	- Proviene del contexto y entorno laboral.

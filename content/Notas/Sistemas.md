@@ -14,4 +14,4 @@ tags:
 	- Procesos que convierten entradas y salidas.
 		- Entrada: recursos desde el ambiente.
 		- Salida: igualmente de recursos.
-	- [[Organización 1]] para lograr el objetivo.
+	- [[Organización]] para lograr el objetivo.

@@ -11,7 +11,7 @@ tags:
 
 - Fomenta las **Organizaciones informales**, donde individuos están participando activamente entre sus compañeros. 
 	- El factor social toma un rol fundamental en la productividad. 
-	- Es algo espontáneo que surge por las relaciones dentro de una [[Organización 1]].
+	- Es algo espontáneo que surge por las relaciones dentro de una [[Organización]].
 		- También surgen líderes naturales que guían al grupo.
 	- Surgen normas de conducta implícitas que determinan el rendimiento colectivo. 
 	- Se fomenta la participación de todos, incluidos los individuos menos importantes del grupo.

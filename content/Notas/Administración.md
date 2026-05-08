@@ -15,7 +15,7 @@ tags: sistemas-y-organizaciones
 	- Protestante: Disciplina, control, ascetismo.
 	- LIbertad: Sin servidumbre.
 - Siglo XIV surge concepto de administración.
-	- [[Organización 1]] del trabajo humano.
+	- [[Organización]] del trabajo humano.
 
 - Trabajo = administración.
 

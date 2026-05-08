@@ -10,7 +10,7 @@ tags:
 	- Qué conocemos.
 	- Cómo conocemos.
 	- Diferenciar [[Conocimiento]] verdadero y falso.
-	- Estructura y [[Organización 1]] del [[Conocimiento]].
+	- Estructura y [[Organización]] del [[Conocimiento]].
 	- Acceso al no [[Conocimiento]].
 	- Límites del [[Conocimiento]].
 - Fundamentos de los conceptos epistémicos básicos.

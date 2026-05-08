@@ -3,15 +3,15 @@ tags:
 - organizacion
 - sistemas-y-organizaciones
 ---
-# La [[Organización 1]] como [[Sistemas|sistema]]
+# La [[Organización]] como [[Sistemas|sistema]]
 - Componente psicosocial.
 	- Individuos y grupos en interacción. 
 - Componente técnico.
 	- Necesario para desarrollar tareas y transformar insumos en productos/servicios.
 - Componente administrativo.
-	- Relaciona [[Organización 1]] con su medio. Establece objetivos y estructura.
+	- Relaciona [[Organización]] con su medio. Establece objetivos y estructura.
 ## Los tres pilares
-- Estrategia. La visión que se tiene del futuro de la [[Organización 1]].
+- Estrategia. La visión que se tiene del futuro de la [[Organización]].
 	- Plan para lograr un objetivo.
 - Estructura.  Cómo se divide el trabajo en áreas coordinadas.
 - Cultura. Generador invisible de energía.
@@ -28,7 +28,7 @@ tags:
 - ERP - Enterprise Resource Planning ^251c60
 	- Paquete de software dedicado a la integración de datos de [[Administración]]. 
 - CRM - Customer Relationship Management ^bda22c
-	- Herramienta que ayuda a la fusión de información entre cliente y [[Organización 1]], como bases de datos de ventas, call center, web, móvil, etc.
+	- Herramienta que ayuda a la fusión de información entre cliente y [[Organización]], como bases de datos de ventas, call center, web, móvil, etc.
 - SCM - Supply Chain Management ^c5082a
 	- Actividades de cadena de suministro (Entrega de un producto al cliente.)
 - BI - Business Intelligence ^3f83eb

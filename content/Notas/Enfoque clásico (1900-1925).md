@@ -7,7 +7,7 @@ tags:
 # Administración - Enfoque clásico
 - Surgen empresas que necesitan eficiencia y competencia.
 - Enfrentaron problemas técnicos y productivos.
-- [[Organización 1]] científica y aislada.
+- [[Organización]] científica y aislada.
 - Ente simple, mecánico y determinista.
 
 ## Modelos

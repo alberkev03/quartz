@@ -7,8 +7,8 @@ tags:
 # Teoría del conflicto
 Tipos de conflictos:
 - Individual.
-- Organizacional. Dentro de la [[Organización 1]].
-- Interorganizacional. Fuera de la [[Organización 1]].
+- Organizacional. Dentro de la [[Organización]].
+- Interorganizacional. Fuera de la [[Organización]].
 ## Soluciones
 - Total.
 	- Origen en falta de información.

@@ -5,7 +5,7 @@ tags:
 ---
 
 # Information Technology Infrastructure Library (ITIL)
-- Modelo [[Organización 1|organizacional]]. Conjunto de mejores prácticas para ofrecer servicios de TI de manera optimizada, de buena calidad y eficiente.
+- Modelo [[Organización|organizacional]]. Conjunto de mejores prácticas para ofrecer servicios de TI de manera optimizada, de buena calidad y eficiente.
 	- Desarrollado en 1980.
 	- Comenzó como un conjunto de libros, y fue evolucionando hasta convertirse en una suite de herramientas para ayudar a técnicos y empresas.
 - Procedimientos pensados para entornos cambiantes típicos de IT.
