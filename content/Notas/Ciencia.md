@@ -57,8 +57,7 @@ A partir de finales de los años setenta, otro grupo de investigadores argumenta
 #### Transciencia
 La ciencia se ha implicado más en las políticas públicas. Esto se le ha dado varios nombres: transciencia, ciencia reguladora, ciencia postnormal. Por ejemplo, cuando una [[Administración]] elabora una nueva política social, utiliza la ciencia como respaldo para formular esa política. 
 
-La ciencia es ampliamente usada, no solo para crear nuevas tecnologías, sino para evitar el surgimiento de desarrollos no deseados. Por ejemplo, la ciencia reguladora (análi-
-sis de impacto ambiental, la [[Evaluación de tecnologías]], los análisis de riesgos,
+La ciencia es ampliamente usada, no solo para crear nuevas tecnologías, sino para evitar el surgimiento de desarrollos no deseados. Por ejemplo, la ciencia reguladora (análisis de impacto ambiental, la [[Evaluación de tecnologías]], los análisis de riesgos,
 etc.).
 
 De este modo, la ciencia y la [[Sociedad]] se entrelazan y colaboran mutuamente. El uso de nuevas tecnologías requiere de dos ámbitos: el científico (quien determina cuáles son los hechos) y el político (quien señala la dirección de la [[Sociedad]]). Es tan fuerte este lazo que en ambos casos, las repercusiones de las decisiones que se tomen afectan al otro ámbito.

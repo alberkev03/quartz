@@ -18,7 +18,7 @@ tags:
 - Seguridad. Debido a su naturaleza Open Source, las vulnerabilidades son descubiertas y parchadas rápidamente, lo que lo hace poco susceptible a ataques.
 - Coste. Linux es 100% gratuito. Algunas empresas, como Red Hat ofrecen un precio a cambio de soporte y asistencia.
 ## Componentes claves
-- Núcleo Linux: Nucleo monolítico[^1] encargado de gestionar los sistemas principales. Sobre él se ejecutan todos los demás programas.
+- Núcleo Linux: Nucleo monolítico[^1] encargado de gestionar los [[Sistemas]] principales. Sobre él se ejecutan todos los demás programas.
 - Módulos: Componentes del sistema adicionales que permite que funcione plenamente. Son personalizables, permitiendo ajustar la experiencia del usuario de acuerdo a su experiencia y necesidades.
 - Entornos de escritorio: Conjunto de programas dedicados a ofrecer un escritorio al usuario final, como una forma de interactuar con el sistema mediante ratón.
 - Gestor de paquetes: Permite gestionar los programas instalados, añadir nuevos o desinstalar existentes.

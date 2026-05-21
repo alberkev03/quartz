@@ -56,7 +56,7 @@ La forma binaria directa es eficaz con números positivos, pero presenta dificul
 	- Primer bit para el signo.
 	- 7 bits para el Exponente.
 	- 24 bits para la mantisa.
-- El BMS determina el signo **de la mantisa**. Para calcular el exponente, se realiza una técnica de desplazamiento, similar al cero desplazado.
+- El BMS determina el signo **de la mantisa**. Para calcular el exponente, se realiza una [[Técnica]] de desplazamiento, similar al cero desplazado.
 	- Con 7 bits, tenemos 128 combinaciones. Con frontera, va desde -64 a 64.
 	- Usamos la fórmula $C=E+64$ para calcular el número real. Es decir, Característica almacenada es igual a Exponente más 64. Con esta operación, la máquina calcula el exponente real y puede representar correctamente todo el número.
 ***

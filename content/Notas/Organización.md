@@ -54,3 +54,4 @@ tags:
 - [[Unidad 2 sistemas y organizaciones.pdf]]
 ## Ver más
 - [[ITIL]]
+- [[Gestión de proyectos]]

@@ -1,3 +1,9 @@
+---
+tags:
+- ciencia
+- ciencia-tecnologia-sociedad
+---
+
 # Revolución tecnológica
 ## Características claves
 - Proceso poderoso y visible.
@@ -69,6 +75,5 @@ Estas revoluciones aparecen aproximadamente cada medio siglo, y se originan en c
 - [[Revoluciones tecnologicas y capital financiero.pdf]]
 ## Ver más
 [[Paradigma Tecnoeconómico]]
-#tecnologia #[[Ciencia]]-tecnologia-[[Sociedad]] 
 
 [^1]: Según el modelo [[Ciencia#^232fbf|Kuhniano]]
