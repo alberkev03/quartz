@@ -12,7 +12,6 @@ configuration:
     - Personal
     - _Plantillas
     - .obsidian
-    - Excalidraw
     - Tareas
   theme:
     fontOrigin: googleFonts
