@@ -5,7 +5,7 @@ tags:
 ---
 
 # Argentina y su desarrollo tecnológico
-Concepto clave de una [[Revolución Tecnológica]]: Las tecnologías se propagan partiendo de un país de origen. 
+Concepto clave de una [[Revolución Tecnológica]]: ==Las tecnologías se propagan partiendo de un país de origen==. 
 Argentina aprovechó la tercera de ellas para crecer.
 - Se aprovechó de los barcos a vapor y barcos refrigerados, lo que permitió exportar carnes y trigo al mercado británico.
 - El capital ingresado se usó para mejorar la infraestructura de la producción: Ferrocarriles y puertos.
