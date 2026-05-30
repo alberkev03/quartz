@@ -1,24 +1,26 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Mis Notas
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: es-AR
   baseUrl: md.kevinalberto.lat
   ignorePatterns:
-    - private
-    - templates
+    - Personal
+    - _Plantillas
     - .obsidian
+    - Excalidraw
+    - Tareas
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
       header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      body: Inter
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#faf8f8"
