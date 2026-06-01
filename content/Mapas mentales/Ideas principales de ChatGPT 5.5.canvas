@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"68f58f2018fa06c7","type":"text","text":"Respaldado por empleados de NVIDIA y el fundador y director de Cursor, **una empresa de IA**. **¿Posible sesgo?**","x":-760,"y":-313,"width":260,"height":234,"color":"6"},
+		{"id":"e2d8ba8b31bffb86","type":"text","text":"IDEAS PRINCIPALES DEL ARTICULO DE CHATGPT","x":-373,"y":-780,"width":308,"height":80},
+		{"id":"e3e3690be3262630","type":"text","text":"Usado en la empresa en distintas secciones, pero no se le confía solicitudes de alto riesgo","x":-105,"y":-620,"width":345,"height":121},
+		{"id":"6a211a6cd0871286","type":"text","text":"Mencionar ganancias de Nvidia","x":-940,"y":29,"width":250,"height":60,"color":"6"},
+		{"id":"30ac12fb86320795","type":"text","text":"Desarrollado y ejecutado en sistemas NVIDIA GB200 NVL72. ¿Coste? ¿Recursos? ¿Centros de datos?","x":-940,"y":226,"width":250,"height":194,"color":"6"},
+		{"id":"963fbfeca68d6407","type":"text","text":"Prueba del lavadero de coches\n[Fuente](https://chorrocks.substack.com/p/the-carwash-test-may-update)","x":400,"y":-1,"width":260,"height":141,"color":"5"},
+		{"id":"44902703b27c19ba","type":"text","text":"Modelo más rápido, menos propenso a errores y más eficiente en el código","x":-396,"y":-419,"width":291,"height":119,"color":"3"},
+		{"id":"c4a1e5e334428c08","type":"text","text":"Muy centrado en ciberseguridad y biología","x":-47,"y":-251,"width":287,"height":110,"color":"3"},
+		{"id":"6a2a7e99fa95cf51","type":"text","text":"Considerablemente mejor que la competencia. Más inteligente a menos coste [Fuente](https://artificialanalysis.ai/methodology/intelligence-benchmarking)","x":-410,"y":-209,"width":319,"height":137,"color":"3"},
+		{"id":"69d18ce0eef5ab52","type":"text","text":"Solo usuarios Pro (mencionar precios)","x":66,"y":-119,"width":261,"height":80,"color":"1"},
+		{"id":"4788c325a1edbe08","type":"text","text":"Mencionar falta de resultados en entornos reales\n","x":66,"y":-1,"width":249,"height":117},
+		{"id":"3bef46a6e0869a35","x":66,"y":161,"width":245,"height":109,"color":"4","type":"text","text":"Demasiado centrado en tareas profesionales. "},
+		{"id":"96d9c0dfc65399fa","type":"text","text":"muestra una mayor capacidad para entender la forma de un sistema: por qué algo falla, dónde debe quedar la corrección y qué otras partes de la base de código se verían afectadas","x":-374,"y":93,"width":283,"height":267,"color":"3"}
+	],
+	"edges":[
+		{"id":"dba120288a68ddbf","fromNode":"44902703b27c19ba","fromSide":"right","toNode":"c4a1e5e334428c08","toSide":"left"},
+		{"id":"fc327c2326f499cd","fromNode":"44902703b27c19ba","fromSide":"right","toNode":"69d18ce0eef5ab52","toSide":"left"},
+		{"id":"7625ad57e136748e","fromNode":"44902703b27c19ba","fromSide":"bottom","toNode":"6a2a7e99fa95cf51","toSide":"top"},
+		{"id":"154952d463ca7635","fromNode":"6a2a7e99fa95cf51","fromSide":"bottom","toNode":"96d9c0dfc65399fa","toSide":"top"},
+		{"id":"6a0ae580f5e6c38b","fromNode":"68f58f2018fa06c7","fromSide":"right","toNode":"44902703b27c19ba","toSide":"left"},
+		{"id":"f5c7d268fa05d524","fromNode":"68f58f2018fa06c7","fromSide":"bottom","toNode":"6a211a6cd0871286","toSide":"top"},
+		{"id":"8a5f28b1ad246cbe","fromNode":"44902703b27c19ba","fromSide":"top","toNode":"e3e3690be3262630","toSide":"left"},
+		{"id":"124fd2ea195a6a7f","fromNode":"68f58f2018fa06c7","fromSide":"bottom","toNode":"96d9c0dfc65399fa","toSide":"left"},
+		{"id":"ff4f152bad372a82","fromNode":"30ac12fb86320795","fromSide":"top","toNode":"6a211a6cd0871286","toSide":"bottom"},
+		{"id":"602ff161e93b568d","fromNode":"6a2a7e99fa95cf51","fromSide":"right","toNode":"4788c325a1edbe08","toSide":"left"},
+		{"id":"b1544cb72fba2103","fromNode":"4788c325a1edbe08","fromSide":"right","toNode":"963fbfeca68d6407","toSide":"left"},
+		{"id":"90145addac0b2485","fromNode":"6a2a7e99fa95cf51","fromSide":"right","toNode":"3bef46a6e0869a35","toSide":"left"},
+		{"id":"9e7190daebf031f9","fromNode":"68f58f2018fa06c7","fromSide":"bottom","toNode":"4788c325a1edbe08","toSide":"left"}
+	]
+}
