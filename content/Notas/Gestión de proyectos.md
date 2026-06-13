@@ -8,7 +8,7 @@ Gestionar proyectos es algo fundamental dentro del trabajo de TI. Lo que comenz�
 
 **La gestión de un proyecto de TI es compleja**. Requiere conocer al equipo interno y al externo, prestar atención a la evolución tecnológica y conocer las estrategias de la empresa. En muchas ocasiones, se gestionan múltiples proyectos relacionados entre sí. Su naturaleza lo hace más complejo que proyectos en otras áreas. Por eso, la gestión es fundamental. Muchos proyectos fracasan por la falta de la misma. Los principales motivos son:
 - Falta de disciplina.
-- Falta de comunicación entre organización y directores de unidad de negocio.
+- Falta de comunicación entre [[Organización]] y directores de unidad de negocio.
 
 El fracaso también escala con el coste: proyectos más grandes son más dependientes de una buena gestión.
 ## Proyectos vs procesos
@@ -32,7 +32,7 @@ En resumen, un proyecto involucra más profundidad, diseño, planificación. Un 
 - Falta de comunicación con personal externo.
 - Falta de beneficios claros del proyecto.
 - Mal control de cambios.
-- Cambios en la tecnología usada.
+- Cambios en la [[Tecnología]] usada.
 - Habilidades insuficientes.
 - Expansión gradual del proyecto sin un foco específico (*Scope Creep*).
 ### Factores claves del éxito
@@ -48,5 +48,6 @@ En resumen, un proyecto involucra más profundidad, diseño, planificación. Un 
 ## Ver más
 - [[Objetivos SMART]]
 - [[Tipos de planeación]]
+- [[Métodos de control]]
 ## Referencias
 [[Gestion_de_Proyectos_de_TI.pdf]]

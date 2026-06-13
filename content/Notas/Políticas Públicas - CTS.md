@@ -15,7 +15,7 @@ Unas de las medidas de activismo usadas para regular los cambios [[Ciencia|cient
 
 Es la respuesta natural ante la preocupación creciente del peligro de las tecnologías. El [[Congreso de Budapest]] también es un reflejo de esta inquietud.
 
-El objetivo no es imponer límites al desarrollo ni establecer control sobre el mismo, sino **renegociar las relaciones entre ciencia y [[Sociedad]]**, por medio de la intervención de esta última.
+El objetivo no es imponer límites al desarrollo ni establecer control sobre el mismo, sino **renegociar las relaciones entre [[Ciencia]] y [[Sociedad]]**, por medio de la intervención de esta última.
 
 Esto es importante por la gran cantidad de colectivos sociales involucrados en las controversias tecnológicas o medioambientales, que van desde directamente involucrados, potencialmente involucrados, a externos, consumidores, público involucrado moralmente, etc.
 
@@ -24,7 +24,7 @@ La complejidad de los problemas actuales hace que la participación “externa�
 En base a esto, se han establecido criterios para determinar qué opinión tiene más peso.
 - Carácter representativo: Se requiere amplia participación. Más involucrados = más democrático.
 - Carácter igualitario: Todos deben contar con el mismo acceso a información, medios, igual trato y transparencia.
-- Carácter efectivo: Es importante que la opinión pública pese en la decisión final.
+- Carácter efectivo: Es importante que la opinión pública pese en la [[Decisión]] final.
 - Carácter activo: El público debe poder participar e involucrarse activamente.
 ## Modos de participación
 En el ámbito *administrativo*, destacan:

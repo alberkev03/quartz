@@ -8,7 +8,7 @@ Un sistema de cómputo es un conjunto de componentes usados en un ordenador.
 - Diseño de hardware. Nuevas tecnologías en constante evolución. 
 - Creación de redes informáticas.     
 - Seguridad de la información. Pilar fundamental de la informática.  
-- Inteligencia Artificial. 
+- [[Inteligencia Artificial]]. 
 - Ciudades inteligentes. Servicios que presta el estado para agilizar trámites, servicios públicos, transporte, etc. 
 ### Computadora
 

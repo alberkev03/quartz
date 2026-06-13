@@ -7,12 +7,12 @@ tags:
 # Antivirus
 Programa de software diseñado para prevenir, detectar y eliminar virus informáticos u otros tipos de [[Malware]]. 
 ## Funcionamiento básico del antivirus
-El objetivo es proteger la computadora del usuario de cualquier malware potencialmente peligroso. 
+El objetivo es proteger la computadora del usuario de cualquier [[Malware]] potencialmente peligroso. 
 - Escaneo de archivos. Si se encuentra un archivo sospechoso, se compara con una base de datos conocida, y de coincidir se elimina.
 - Protección en tiempo real. Los antivirus monitorean constantemente el sistema y detienen cualquier amenaza detectada.
 - Actualización de la base de datos. La misma se mantiene al día con las amenazas conocidas. 
-- Análisis heurístico. Además de comparar con malware conocido, el antivirus busca activamente patrones de conducta sospechosos o maliciosos.
-- Eliminación del malware. Si el antivirus detecta un archivo, lo elimina o pone “en cuarentena”. 
+- Análisis heurístico. Además de comparar con [[Malware]] conocido, el antivirus busca activamente patrones de conducta sospechosos o maliciosos.
+- Eliminación del [[Malware]]. Si el antivirus detecta un archivo, lo elimina o pone “en cuarentena”. 
 	- El archivo no se ejecuta hasta que se decida qué hacer con él.
 ## Funcionamiento adicional del antivirus
 Algunos antivirus cuentan con funcionalidades adicionales.

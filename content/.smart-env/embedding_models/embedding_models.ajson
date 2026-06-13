@@ -1,9 +1,1 @@
-
-"embedding_models:transformers#1776382324598": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1776382324598,"key":"transformers#1776382324598"},
-"embedding_models:transformers#1776382324598": {"api_key":"","provider_key":"transformers","model_key":"Xenova/multilingual-e5-small","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1776382324598,"key":"transformers#1776382324598","adapter":"transformers","description":"Transformers (Local, built-in)","default_model":"TaylorAI/bge-micro-v2"},
-"embedding_models:transformers#1776382324598": {"api_key":"","provider_key":"transformers","model_key":"Snowflake/snowflake-arctic-embed-xs","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1776382324598,"key":"transformers#1776382324598","adapter":"transformers","description":"Transformers (Local, built-in)","default_model":"TaylorAI/bge-micro-v2"},
-"embedding_models:transformers#1776382587960": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1776382587960,"key":"transformers#1776382587960","meta":{"name":"T"}},
-"embedding_models:transformers#1776382587960": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1776382587960,"key":"transformers#1776382587960","meta":{"name":"Test"}},
-"embedding_models:transformers#1776382587960": null,
-"embedding_models:transformers#1776382324598": null,
 "embedding_models:transformers#1776382646934": {"api_key":"","provider_key":"transformers","model_key":"TaylorAI/bge-micro-v2","dims":384,"max_tokens":512,"class_name":"EmbeddingModel","created_at":1776382646934,"key":"transformers#1776382646934"},

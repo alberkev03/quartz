@@ -31,10 +31,10 @@ Toda IA funciona de la misma manera: Aprende datos y crea patrones denominados *
 - No pueden generar sin patrones que procesar. La idea de una IA más humana se aleja de sus capacidades técnicas reales.
 - Las minorías son discriminadas por los [[Sistemas]] de gran tamaño usados para entrenarlas.
 
-Hay que poder entender la IA como lo que es: no un humano, sino **datos o sistemas de procesamiento masivo sin capacidades cognitivas reales**. Por lo tanto, acompaña a la inteligencia humana, no la remplaza.
+Hay que poder entender la IA como lo que es: no un humano, sino **datos o [[Sistemas]] de procesamiento masivo sin capacidades cognitivas reales**. Por lo tanto, acompaña a la inteligencia humana, no la remplaza.
 
 ### Sofía Trejo
-Uno de los aspectos importantes de la IA es su impacto en el mundo. Tanto su propio trabajo, realizado en centros de datos, como lo que se usa para acceder a ello, ya sea el internet, celulares, computadoras, etc, requieren de gran cantidad de elementos naturales que, al extraerlos, generan problemas geopolíticos, morales y ambientales. Los centros de datos, por ejemplo, son de especial interés por su poca transparencia sobre el uso del agua para enfriar sus sistemas. No entender a cabalidad estos impactos altera nuestro entendimiento de sus implicaciones a nivel global. **Conectar la IA con su materialidad** debe formar parte de la educación sobre estas.
+Uno de los aspectos importantes de la IA es su impacto en el mundo. Tanto su propio trabajo, realizado en centros de datos, como lo que se usa para acceder a ello, ya sea el internet, celulares, computadoras, etc, requieren de gran cantidad de elementos naturales que, al extraerlos, generan problemas geopolíticos, morales y ambientales. Los centros de datos, por ejemplo, son de especial interés por su poca transparencia sobre el uso del agua para enfriar sus [[Sistemas]]. No entender a cabalidad estos impactos altera nuestro entendimiento de sus implicaciones a nivel global. **Conectar la IA con su materialidad** debe formar parte de la educación sobre estas.
 ### Cecilia Ortiz
 Es importante conocer los usos y la accesibilidad que se le da a las IAs. En lugares donde no hay internet, o su calidad es pobre, o si el dispositivo usado es de mala calidad, todo eso afecta al uso que puede dársele, no solo en términos de quién puede acceder o no, sino en las implicaciones más allá: la inclusión de las minorías, sus derechos, la educación, etc. La IA debe ser, ante todo, **democrática**, accesible para la mayoría y libre de información falsa.
 

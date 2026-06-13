@@ -68,7 +68,7 @@ En estos casos, inevitablemente van a surgir cuestiones que la ciencia pueda pla
 3. La imposibilidad de contestar a cuestiones de valor como, por ejemplo, de qué problemas debería ocuparse la ciencia.
 En el caso 1, se pone el ejemplo de los reactores nucleares. Se sabe, por cálculos, las probabilidades de fallo de sus componentes, pero es imposible determinarlo con certeza debido a que, para hacerlo, haría falta probarlo con miles de reactores durante períodos de miles de años. Por lo tanto, aunque este problema se puede plantear científicamente, la ciencia no puede responder de manera definitiva las probabilidades de que ocurra. 
 
-En el caso 2, el motivo es la velocidad a la que trabaja la ingeniería, lo que hace que muchas veces se trabaje con datos incompletos. Falta de presupuesto o agendas impiden que se pueda realizar propiamente un trabajo científico. Por ejemplo, la construcción de una presa; es posible crear prototipos, pero estos pierden precisión al compararlos con el producto final.
+En el caso 2, el motivo es la velocidad a la que trabaja la ingeniería, lo que hace que muchas veces se trabaje con datos incompletos. Falta de [[Presupuesto]] o agendas impiden que se pueda realizar propiamente un trabajo científico. Por ejemplo, la construcción de una presa; es posible crear prototipos, pero estos pierden precisión al compararlos con el producto final.
 > “La incertidumbre es inherente a la ingeniería.”
 > — Weinberg, 1972, p. 6.
 

@@ -7,12 +7,13 @@
 		{"id":"30ac12fb86320795","type":"text","text":"Desarrollado y ejecutado en sistemas NVIDIA GB200 NVL72. ¿Coste? ¿Recursos? ¿Centros de datos?","x":-940,"y":226,"width":250,"height":194,"color":"6"},
 		{"id":"963fbfeca68d6407","type":"text","text":"Prueba del lavadero de coches\n[Fuente](https://chorrocks.substack.com/p/the-carwash-test-may-update)","x":400,"y":-1,"width":260,"height":141,"color":"5"},
 		{"id":"44902703b27c19ba","type":"text","text":"Modelo más rápido, menos propenso a errores y más eficiente en el código","x":-396,"y":-419,"width":291,"height":119,"color":"3"},
-		{"id":"c4a1e5e334428c08","type":"text","text":"Muy centrado en ciberseguridad y biología","x":-47,"y":-251,"width":287,"height":110,"color":"3"},
 		{"id":"6a2a7e99fa95cf51","type":"text","text":"Considerablemente mejor que la competencia. Más inteligente a menos coste [Fuente](https://artificialanalysis.ai/methodology/intelligence-benchmarking)","x":-410,"y":-209,"width":319,"height":137,"color":"3"},
 		{"id":"69d18ce0eef5ab52","type":"text","text":"Solo usuarios Pro (mencionar precios)","x":66,"y":-119,"width":261,"height":80,"color":"1"},
 		{"id":"4788c325a1edbe08","type":"text","text":"Mencionar falta de resultados en entornos reales\n","x":66,"y":-1,"width":249,"height":117},
-		{"id":"3bef46a6e0869a35","x":66,"y":161,"width":245,"height":109,"color":"4","type":"text","text":"Demasiado centrado en tareas profesionales. "},
-		{"id":"96d9c0dfc65399fa","type":"text","text":"muestra una mayor capacidad para entender la forma de un sistema: por qué algo falla, dónde debe quedar la corrección y qué otras partes de la base de código se verían afectadas","x":-374,"y":93,"width":283,"height":267,"color":"3"}
+		{"id":"3bef46a6e0869a35","type":"text","text":"Demasiado centrado en tareas profesionales. ","x":66,"y":161,"width":245,"height":109,"color":"4"},
+		{"id":"96d9c0dfc65399fa","type":"text","text":"muestra una mayor capacidad para entender la forma de un sistema: por qué algo falla, dónde debe quedar la corrección y qué otras partes de la base de código se verían afectadas","x":-374,"y":93,"width":283,"height":267,"color":"3"},
+		{"id":"c4a1e5e334428c08","type":"text","text":"Muy centrado en ciberseguridad y biología","x":53,"y":-319,"width":287,"height":110,"color":"3"},
+		{"id":"5d22f65a40083ed3","x":-658,"y":515,"width":408,"height":485,"type":"text","text":"# Estructura del trabajo final\n1. Introducción.\n\t- Qué es ChatGPT, para qué sirve y por qué existe esta nueva versión.\n2. Capacidades técnicas del modelo.\n\t1. Código.\n\t2. Trabajo profesional.\n\t3. Investigación Científica.\n\t4. Conclusión sobre sus capacidades en entornos reales.\n\t5. Pequeño debate ético.\n3. Hardware involucrado.\n\t1. Cómo el hardware afecta al mundo.\n4. Conclusiones finales."}
 	],
 	"edges":[
 		{"id":"dba120288a68ddbf","fromNode":"44902703b27c19ba","fromSide":"right","toNode":"c4a1e5e334428c08","toSide":"left"},

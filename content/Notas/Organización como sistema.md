@@ -25,7 +25,7 @@ tags:
 - Sistema de información.
 	- Computacional, manejo de herramientas e información.
 ## Nivel operativo
-- ERP - Enterprise Resource Planning ^251c60
+- [[ERP]] - Enterprise Resource Planning ^251c60
 	- Paquete de software dedicado a la integración de datos de [[Administración]]. 
 - CRM - Customer Relationship Management ^bda22c
 	- Herramienta que ayuda a la fusión de información entre cliente y [[Organización]], como bases de datos de ventas, call center, web, móvil, etc.
